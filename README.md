@@ -34,6 +34,9 @@ Violators of this code will be banned and/or made to step on LEGO until they cry
 #### When is the next meet-up?
 - Ask in [Slack](https://bayareadads.herokuapp.com/)!
 
+#### Can you help me find a doctor / specialist / babysitter?
+- Probably! You can check our [wiki of resources](https://github.com/bayareadads/org/wiki), or inquire in Slack.
+
 #### I have an idea for a dads hack-session / skate session / BBQ / other!
 - Great! We are always looking for new organizers, mentors, and helpers. Raise your hand in Slack.
 
