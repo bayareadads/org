@@ -3,7 +3,7 @@
 ### FAQ (Frequently Asked Questions)
 
 #### How do I join the group?
-- easy! click to join [Bay Area Dads Slack](https://bayareadads.herokuapp.com/); alternate [backup link](http://hamsterpad.com/chat/bayareadads)
+- easy! click to join [Bay Area Dads Slack](https://bayareadads.herokuapp.com/) (alternate [backup link](http://hamsterpad.com/chat/bayareadads))
 
 #### Do I have to be a dad to join?
 - No, but it helps. This is a group for dads and dads-to-be. We've found that there are dozens of groups for moms in the bay area. This one is really intended for dads. If you want to lurk, we won't necessarily kick you out, but if you're not a dad, you probably will be VERY BORED here.
