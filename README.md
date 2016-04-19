@@ -3,9 +3,7 @@
 ### FAQ (Frequently Asked Questions)
 
 #### How do I join the group?
-- click join [Bay Area Dads Slack](https://bayareadads.herokuapp.com/);
-  page sometimes takes a few seconds to load, please be patient.
-
+- easy! click to join [Bay Area Dads Slack](https://bayareadads.herokuapp.com/);
 - backup link: [backup link to join Slack team](http://hamsterpad.com/chat/bayareadads)
 
 #### Do I have to be a dad to join?
