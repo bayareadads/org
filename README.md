@@ -34,7 +34,12 @@
 
 Violators of this code will be banned and/or made to step on LEGO until they cry.
 
+#### When is the next meet-up?
+- Ask in [Slack](https://bayareadads.herokuapp.com/)!
+
+#### I have an idea for a dads hack-session / skate session / BBQ / other!
+- Great! We are always looking for new organizers, mentors, and helpers. Raise your hand in Slack.
+
 ##### Who is "in charge" here?
 - No one really, but this was started by [jm3](http://twitter.com/jm3)
   and grew from there.
-
