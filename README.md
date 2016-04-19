@@ -15,26 +15,25 @@
 	won't necessarily kick you out, but if you're not a dad, you probably
 	will be VERY BORED.
 
-#### Is there an age limit?
-- No, all Bay Area dads welcome of all ages / persuasions / family configurations.
-
 #### Do I have to live in (San Francisco, Oakland, San Jose, etc.) to be here?
 - Not at all, we're just focused on life in the Bay Area and how that
   affects birth, pregnancy, parenting, schooling, and our lives. We have
   members who used to live in the Bay Area but moved, and people who are
   moving to the Bay Area but haven't landed yet. Like SF, this is a
-  "live and live" group.
+  "live and let live" group.
 
-#### Is there a code of conduct?
+#### Is there a B.A.D. code of conduct?
 - There is! Please obey it and help everyone have a safe + chill time.
 
-##### BAD Code of Conduct
+##### Code of Conduct
 - Be friendly and patient
 - Be welcoming
 - Be considerate
 - Be respectful
 - Be careful in the words you choose
 - Seek first to understand
+
+Violators of this code will be [hell-banned](https://en.wikipedia.org/wiki/Stealth_banning) and/or made to step on LEGO until they cry.
 
 ##### Who is "in charge" here?
 - No one really, but this was started by [jm3](http://twitter.com/jm3)
