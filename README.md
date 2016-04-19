@@ -32,7 +32,7 @@
 - Be careful in the words you choose
 - Seek first to understand
 
-Violators of this code will be [hell-banned](https://en.wikipedia.org/wiki/Stealth_banning) and/or made to step on LEGO until they cry.
+Violators of this code will be banned and/or made to step on LEGO until they cry.
 
 ##### Who is "in charge" here?
 - No one really, but this was started by [jm3](http://twitter.com/jm3)
