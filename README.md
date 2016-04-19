@@ -9,11 +9,7 @@
 - backup link: [backup link to join Slack team](http://hamsterpad.com/chat/bayareadads)
 
 #### Do I have to be a dad to join?
-- No, but it helps. :) In all seriousness, this is a group for dads and
-	dads-to-be. We've found that there are dozens of groups for moms in the
-	bay area. This one is really intended for dads. If you want to lurk, we
-	won't necessarily kick you out, but if you're not a dad, you probably
-	will be VERY BORED.
+- No, but it helps. This is a group for dads and dads-to-be. We've found that there are dozens of groups for moms in the bay area. This one is really intended for dads. If you want to lurk, we won't necessarily kick you out, but if you're not a dad, you probably will be VERY BORED here.
 
 #### Do I have to live in (San Francisco, Oakland, San Jose, etc.) to be here?
 - Not at all, we're just focused on life in the Bay Area and how that
