@@ -15,8 +15,8 @@
   moving to the Bay Area but haven't landed yet. Like SF, this is a
   "live and let live" group.
 
-#### Can I invite my friend?
-- Is your friend a dad? If yes, send them the link! If no, see [above](#do-i-have-to-be-a-dad-to-join)
+#### Can I invite my friend(s)?
+- Yes, send them the link! We also just printed some SWEET invitation cards for when you meet someone at the playground and don't have the link handy. Ask jm3 for some.
 
 #### Is there a B.A.D. code of conduct?
 - There is! Please obey it and help everyone have a safe + chill time.
