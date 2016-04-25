@@ -1,5 +1,13 @@
 ## Welcome to Bay Area Dads!
 
+_click to visit:_
+
+[![slack](http://bayareadads.s3.amazonaws.com/slack.jpg?1)](https://bayareadads.slack.com/) 
+[![sf](http://bayareadads.s3.amazonaws.com/sf.jpg?)](/bayareadads/org/wiki/Resources:SF) 
+![northbay](http://bayareadads.s3.amazonaws.com/northbay.jpg?) 
+[![eastbay](http://bayareadads.s3.amazonaws.com/eastbay.jpg?)](/bayareadads/org/wiki/Resources:EastBay) 
+[![peninsula](http://bayareadads.s3.amazonaws.com/peninsula.jpg?)](/bayareadads/org/wiki/Resources:SouthBay) 
+
 ### FAQ (Frequently Asked Questions)
 
 #### How do I join the group?
