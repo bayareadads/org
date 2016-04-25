@@ -1,6 +1,6 @@
 ## Welcome to Bay Area Dads!
 
-_click to visit:_
+_Resources for dads — click for quick access:_
 
 [![slack](http://bayareadads.s3.amazonaws.com/slack.jpg?1)](https://bayareadads.slack.com/) 
 [![sf](http://bayareadads.s3.amazonaws.com/sf.jpg?)](https://github.com/bayareadads/org/wiki/Resources:SF) 
