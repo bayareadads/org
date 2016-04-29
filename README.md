@@ -15,7 +15,7 @@ _Resources for dads — click for quick access:_
 ### FAQ (Frequently Asked Questions)
 
 #### How do I join the group?
-- easy! click to join [Bay Area Dads Slack](https://bayareadads.herokuapp.com/) (alternate [backup link](http://hamsterpad.com/chat/bayareadads))
+- Easily! click to join [Bay Area Dads Slack](http://bayareadads.org) ([alternate link](http://hamsterpad.com/chat/bayareadads))
 
 #### Do I have to be a dad to join?
 - No, but it helps. This is a group for dads and dads-to-be. We've found that there are dozens of groups for moms in the bay area. This one is really intended for dads. If you want to lurk, we won't necessarily kick you out, but if you're not a dad, you probably will be VERY BORED here.
@@ -44,7 +44,7 @@ _Resources for dads — click for quick access:_
 Violators of this code will be banned and/or made to step on LEGO until they cry.
 
 #### When is the next meet-up?
-- Ask in [Slack](https://bayareadads.herokuapp.com/)!
+- Ask in [Slack](http://bayareadads.org/)!
 
 #### Can you help me find a doctor / specialist / babysitter?
 - Probably! You can check our [wiki of resources](https://github.com/bayareadads/org/wiki), or inquire in Slack.
