@@ -1,6 +1,6 @@
 ## Welcome to Bay Area Dads!
 
-[![Slack Status](http://join-bayareadads.herokuapp.com/badge.svg)](http://join-bayareadads.herokuapp.com/)
+[![Slack Status](http://bayareadads.org/badge.svg)](http://bayareadads.org/)
 
 (Current logged-in dads / total dads)
 
